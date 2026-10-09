@@ -1,0 +1,13 @@
+hospital_name_department,total_capacity,total_occupied,total_available,current_occupancy_pct,vacancy_status,simulation_timestamp
+Rajiv Gandhi Govt. General Hospital,198.0,150.0,48.0,75.76,AVAILABLE,2026-10-09 23:06:11
+"Tulips Multispeciality, OMR",16.0,12.0,4.0,75.0,AVAILABLE,2026-10-09 23:06:11
+"Apollo Hospitals, Greams Road",100.0,73.0,27.0,73.0,AVAILABLE,2026-10-09 23:06:11
+"Kauvery Hospital, Alwarpet",63.0,43.0,20.0,68.25,AVAILABLE,2026-10-09 23:06:11
+"SIMS Hospital, Vadapalani",77.0,52.0,25.0,67.53,AVAILABLE,2026-10-09 23:06:11
+"Prashanth Hospitals, Chromepet",33.0,22.0,11.0,66.67,AVAILABLE,2026-10-09 23:06:11
+"Government Hospital, Tambaram",48.0,32.0,16.0,66.67,AVAILABLE,2026-10-09 23:06:11
+Sri Ramachandra Medical Centre,194.0,128.0,66.0,65.98,AVAILABLE,2026-10-09 23:06:11
+"Chettinad Hospital, Kelambakkam",91.0,51.0,40.0,56.04,AVAILABLE,2026-10-09 23:06:11
+"MIOT International, Manapakkam",135.0,67.0,68.0,49.63,AVAILABLE,2026-10-09 23:06:11
+Stanley Medical College Hospital,94.0,44.0,50.0,46.81,AVAILABLE,2026-10-09 23:06:11
+"Fortis Malar Hospital, Adyar",43.0,20.0,23.0,46.51,AVAILABLE,2026-10-09 23:06:11
